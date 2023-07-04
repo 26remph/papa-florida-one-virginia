@@ -1,0 +1,8 @@
+Package: papa-florida-one-virginia
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Vadim Barsukov <remph@yandex-team.ru>
+Installed-Size: 9
+Section: devel
+Priority: optional
+Description: papa lorida one virginia sample package

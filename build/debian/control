@@ -1,0 +1,10 @@
+Source: papa-florida-one-virginia
+Section: devel
+Priority: optional
+Maintainer: Vadim Barsukov <remph@yandex-team.ru>
+Build-Depends: build-essential, debhelper (>= 9), python3, python3-pip, python3-dev, git
+
+Package: papa-florida-one-virginia
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: papa lorida one virginia sample package
