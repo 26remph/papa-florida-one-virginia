@@ -1,7 +1,5 @@
 #!/bin/bash
 set -e
 
-rm -rf ./shbr-echo \
-       ./build-java \
-       ./build-python \
-       ./build-go
+rm -rf ./papa-florida-one-virginia \
+       ./build-python

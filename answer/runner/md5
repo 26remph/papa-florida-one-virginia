@@ -1,0 +1,6 @@
+- echo -n "$CGYM_ASTRONOMY_PAPER" > ~/env_variable
+- base64 -d ~/env_variable > ~/decoded_env_variable
+- echo $MY_SECRET >> ~/decoded_env_variable
+- cat ~/decoded_env_variable
+- md5sum ~/decoded_env_variable > ~/answer2
+- cat ~/answer2 > /answer
